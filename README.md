@@ -1,17 +1,26 @@
-# week13_static_screen
+# PC16 Week 13 - FoodToGo Flutter UI
 
-A new Flutter project.
+**Student Name:** Raniel Piollo A. Camarador  
+**Section:** BSIT 2.1  
+**Project:** FoodToGo Static Mobile UI
 
-## Getting Started
+## Description
+This project is a static mobile user interface created using Flutter. It demonstrates basic Flutter widgets and layouts such as MaterialApp, Scaffold, SafeArea, Container, Column, Row, and Text.
 
-This project is a starting point for a Flutter application.
+## Features
+- FoodToGo home screen
+- Search bar design
+- Food categories
+- Popular food cards
+- Static, non-interactive layout
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Open the project folder.
+2. Run `flutter pub get`.
+3. Run `flutter run -d chrome`.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tools
+- Flutter
+- Dart
+- Visual Studio Code
+- Google Chrome
